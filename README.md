@@ -41,4 +41,5 @@ producing the below:
 The data was further filtered and combined with a csv file that had the longitude and latitude for the neighborhoods in SF for the purpose of visualizing the data in a geographical view. The neighborhoods with the no data in regards to sale price per sq/ft and gross rents were dropped, and the averages were calculated using the `.mean()` function.
 
 The resulting geographical visualization was as follows:
+
 ![geoview-san-fran-plot](images/6-4-geoviews-plot.png)
