@@ -42,4 +42,4 @@ The data was further filtered and combined with a csv file that had the longitud
 
 The resulting geographical visualization was as follows:
 
-![geoview-san-fran-plot](images/6-4-geoviews-plot.png)
+![6-4-geoviews-plot](images/6-4-geoviews-plot.png)
